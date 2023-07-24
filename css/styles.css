@@ -10970,3 +10970,20 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.projects {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.project-headers{
+  display: flex;
+}
+
+.mylinks {
+  text-align: center;
+  padding-left: 5%;
+  padding-right: 5%;
+}
